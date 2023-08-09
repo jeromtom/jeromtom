@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there! 👋 I'm Jerom Tom, a passionate open-source developer and community builder, dedicated to the art of coding and the spirit of collaboration. With a burning desire to make a positive impact, I strive to connect people and technologies for the greater good. 💻🤝
+I'm Jerom Tom, a passionate open-source developer and community builder, dedicated to the art of coding and the spirit of collaboration. With a burning desire to make a positive impact, I strive to connect people and technologies for the greater good. 💻🤝
 
 -🔭 I’m currently working on PyBaMM
 - 🌱 I’m currently learning AI/ML
